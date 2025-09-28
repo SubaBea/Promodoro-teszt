@@ -1,0 +1,1 @@
+print("Szia, ez az első próbaverzió a Pomodoro projekthez!")
